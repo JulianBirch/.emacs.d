@@ -1,0 +1,6 @@
+[submodule "modules/haskell-mode"]
+	path = modules/haskell-mode
+	url = https://github.com/haskell/haskell-mode.git
+[submodule "modules/structured-haskell-mode"]
+	path = modules/structured-haskell-mode
+	url = https://github.com/chrisdone/structured-haskell-mode.git
